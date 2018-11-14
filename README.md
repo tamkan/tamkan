@@ -1,1 +1,3 @@
 # tamkan
+
+Repo kursu Pythona
